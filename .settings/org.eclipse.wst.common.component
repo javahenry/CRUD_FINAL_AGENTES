@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="Agentes_CRUD_Final">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/Lib_Externas"/>
+        <property name="context-root" value="Agentes_CRUD_Final"/>
+        <property name="java-output-path" value="/Agentes_CRUD_Final/build/classes"/>
+    </wb-module>
+</project-modules>
